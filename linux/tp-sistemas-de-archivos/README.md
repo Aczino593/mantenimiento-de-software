@@ -1,9 +1,9 @@
 # TP: Sistema de Archivos en Linux
 
 * **Materia:** Mantenimiento de Software
-* **Estudiante:** Nombre y Apellido
+* **Estudiante:** Franco Lautaro Alvarez
 * **Fecha de Entrega:** 2026
-* **Profesor:** Profesor
+* **Profesor:** Artaza
 
 ---
 
@@ -54,3 +54,9 @@ La utilidad de los archivos y carpetas ocultos (cuyo nombre comienza con un punt
 
 *Respuesta:*  
 El directorio `/proc` es un pseudo-sistema de archivos virtual generado dinámicamente en memoria por el kernel de Linux (no ocupa espacio en el disco físico). Su función es almacenar **información temporal y en tiempo real sobre los procesos en ejecución**, así como el estado interno del kernel y las métricas de hardware del sistema.
+
+---
+
+## Evidencia Adicional
+Vista general de la estructura generada en el entorno:
+![Resultado en explorador](assets/resultado.png)
